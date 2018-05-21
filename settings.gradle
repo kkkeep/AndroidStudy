@@ -1,0 +1,3 @@
+include ':draganddrop', ':testfeature', ':testfeature', ':testfeature', ':testskin', ':testspanneblestring'
+include ':interactiveChart'
+include ':app'
